@@ -1,0 +1,36 @@
+### Register User (Already Exist)
+POST http://localhost:5001/api/users/ HTTP/1.1
+content-type: application/json
+
+{
+    "name":"Justin Howard",
+    "email":"justin.howard@email.com",
+    "password":"abc123"
+}
+
+### Authenticate User
+POST http://localhost:5001/api/users/auth HTTP/1.1
+content-type: application/json
+
+{
+    "email":"justin.howard@email.com",
+    "password":"abc123"
+}
+
+### Authenticate User (Invalid Password)
+POST http://localhost:5001/api/users/auth HTTP/1.1
+content-type: application/json
+
+{
+    "email":"justin.howard@email.com",
+    "password":"123456"
+}
+
+### Logout User
+POST http://localhost:5001/api/users/logout HTTP/1.1
+
+### Get User Profile
+GET http://localhost:5001/api/users/profile HTTP/1.1
+
+### Update User Profile
+PUT http://localhost:5001/api/users/profile HTTP/1.1
