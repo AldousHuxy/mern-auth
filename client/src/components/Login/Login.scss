@@ -13,13 +13,6 @@ $secondary-color: darken($primary-color, 20%);
 	justify-content: center;
 }
 
-body {
-	@extend %flex;
-	@extend %center;
-	height: 100vh;
-	margin: -20px 0 50px;
-}
-
 form {
 	background-color: $white-color;
 	@extend %flex;

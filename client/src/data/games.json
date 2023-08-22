@@ -1,0 +1,68 @@
+[
+    { 
+        "id": 1,
+        "title": "Dead Space (2023)",
+        "release": "January 27, 2023",
+        "publisher": "Electronic Arts",
+        "developer": "Motive Studio",
+        "genre": "Survival Horror",
+        "description": "Set in the 26th century, the story follows engineer Isaac Clarke, a crewman on a repair vessel called the USG Kellion assigned to the USG Ishimura, a massive planetary mining ship that has gone silent above the planet Aegis VII. His crew includes computer specialist Kendra Daniels, chief security officer Zach Hammond, and co-pilots and security personnel Cpls. Hailey Johnston and Aiden Chen. \tWhile investigating a distress call sent by the ship's medical officer and Isaac's girlfriend, Nicole Brennan, the Kellion's crew is attacked by creatures made from mutated human corpses called Necromorphs. Isaac is forced to fend for himself as he tries to save his crewmates and learn the truth behind the loss of the Ishimura. Along the way, he encounters several survivors including Nicole, horticulturalist Elizabeth Cross, engineer and Cross's boyfriend Jacob Temple, the Ishimura's Chief Science Officer Terrence Kyne, and mad scientist Dr. Challus Mercer.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Dead_Space_2022_Teaser_Art.jpg",
+        "price": 59.99
+    },
+    { 
+        "id": 2,
+        "title": "Hogwarts Legacy",
+        "release": "February 10, 2023",
+        "publisher": "Warner Bros. Games",
+        "developer": "Avalanche Software",
+        "genre": "Action Role-playing",
+        "description": "Hogwarts Legacy is set in the late 1800s, taking place in several Wizarding World locations such as Hogwarts castle, Hogsmeade and the Scottish Highlands. The player takes on the role of a student starting their studies at Hogwarts in the fifth year. The player character possesses the power to control a mysterious ancient magic, and holds the key to an \"ancient secret\" that threatens the stability of the wizarding world. Their mission is to discover the reasons behind the resurgence of this forgotten magic and those who are trying to harness its power. \tAt the start of the game, the player encounters Professor Eleazar Fig, who plays a vital role as the mentor in the player's journey. Fig is a wizard who teaches at Hogwarts, and investigates an ongoing goblin rebellion. Other characters the protagonist meets include Hogwarts students Amit Thakkar and Everett Clopton, Professors Onai and Shah, as well as headmaster Phineas Nigellus Black and Professor Matilda Weasley. The protagonist is also able to build friendships with fellow students Natsai Onai, Poppy Sweeting and Sebastian Sallow, who take part in the protagonist's journey as companion characters. Antagonists featured in the game include Ranrok, the leader of the goblin rebellion, and Victor Rookwood, the leader of a group of Dark Wizards.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hogwarts-Legacy-cover.jpg",
+        "price": 59.99
+    },
+    { 
+        "id": 3,
+        "title": "Stars Wars Jedi: Survivor",
+        "release": "April 28, 2023",
+        "publisher": "Electronic Arts",
+        "developer": "Respawn Entertainment",
+        "genre": "Action-Adventure",
+        "description": "Five years after destroying the Jedi Holocron, Jedi Knight Cal Kestis has parted ways with Cere Junda, Greez Dritus, and Merrin to continue his battle against the Empire as a resistance fighter working under Saw Gerrera. His latest mission has him teaming up with his mercenary friend Bode Akuna to infiltrate the Imperial capital world of Coruscant and steal valuable military data from Senator Daho Sejan. After Cal retrieves the data from Sejan, the Ninth Sister, who survived her defeat on Kashyyyk, arrives to confront Cal, slaughtering Sejan and all of Cal's team except Bode. Cal fights and kills the Ninth Sister before escaping Coruscant with Bode. Cal is disheartened to learn from the data that despite all his efforts, the Empire has become more powerful, expanding its reach farther through the galaxy.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/43/Star_Wars_Jedi_Survivor.jpg",
+        "price": 59.99
+    },
+    { 
+        "id": 4,
+        "title": "Starfield",
+        "release": "September 6, 2023",
+        "publisher": "Betheseda Softworks",
+        "developer": "Betheseda Game Sudios",
+        "genre": "Action Role-playing",
+        "description": "Starfield is set in an area that extends outward from the Solar System for approximately 50 light-years called The Settled Systems. Around the year 2310, the two largest factions in the game, the United Colonies and Freestar Collective, engaged in a conflict called the Colony War. The game takes place 20 years after the war, with the major factions enjoying an uneasy peace. The player assumes the role of a customizable character who is a member of Constellation, an organization of space explorers. The game can be played in either first- or third-person perspectives.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Bethesda_Starfield.jpg",
+        "price": 59.99
+    },
+    { 
+        "id": 5,
+        "title": "Assassin's Creed: Mirage",
+        "release": "October 12, 2023",
+        "publisher": "Ubisoft",
+        "developer": " Bordeaux",
+        "genre": "Action-Adventure",
+        "description": "Set decades before the events of Assassin's Creed Valhalla, Mirage is a \"coming-of-age story\" following Basim Ibn Ishaq, a street thief who will learn to fight for a cause larger than himself by becoming a Hidden One under the tutelage of his mentor Roshan.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Assassin%27s_Creed_Mirage_cover.jpeg",
+        "price": 59.99
+    },
+    { 
+        "id": 6,
+        "title": "Marvel's Spider-Man 2",
+        "release": "October 20, 2023",
+        "publisher": "Sony Interactive Entertainment",
+        "developer": "Insomniac Games",
+        "genre": "Action-Adventure",
+        "description": "Marvel's Spider-Man 2 will be an action-adventure single-player video game played in a third-person perspective. As with the first game and Miles Morales, Parker and Morales are the two main characters, becoming individually playable in accordance with the story as they traverse an open world New York City and fight enemies. Players can acquire new abilities and collect various Spider-Man suits. Peter and Miles are able to be freely swapped between at any point during free-roam in the game's open world, but will have dedicated missions both in the main story and as part of side content that specifically take advantage of their individual traits.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/SpiderMan2PS5BoxArt.jpeg",
+        "price": 59.99
+    }
+]

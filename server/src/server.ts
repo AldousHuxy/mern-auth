@@ -34,5 +34,5 @@ app.use(notFound)
 app.use(errorHandler)
 
 // Start express server
-const port: string|number = process.env.PORT || 6002
+const port: string|number = process.env.PORT || 7002
 app.listen(port, () => console.log(`server started on port ${port}`))

@@ -1,13 +1,18 @@
-import { Route, Routes } from "react-router-dom"
-import { Login } from "./components/Login"
-import { Home } from "./pages/Home"
-import './components/Login.scss'
+import { Container } from "react-bootstrap"
+import { Header } from "./components/Header"
+import { ShoppingCartProvider } from "./context/ShoppingCartContext"
+import { Outlet } from 'react-router-dom';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/ReactToastify.css';
 
 export const App = () => {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route index path="/login" element={<Login />} />
-    </Routes>
+    <ShoppingCartProvider>
+      <Header />
+      <ToastContainer />
+      <Container className="mb-4">
+        <Outlet />
+      </Container>
+    </ShoppingCartProvider>
   )
 }
