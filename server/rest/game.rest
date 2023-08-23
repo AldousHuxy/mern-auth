@@ -1,0 +1,2 @@
+### Get All Games
+GET http://localhost:7001/api/games/ HTTP/1.1
